@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Niha Iqbal</h1>
 <h3 align="center">Diving into world of Machine Learning</h3>
 
-- 🔭 I’m currently working on **Final Year Project**
-
-- 🌱 I’m currently learning **Machine Learning Algorithms**
-
-- 💬 Ask me about **Data Collection techniques, EDA, Feature Engineering and Algorithms**
+- 🔭 I’m currently working as an **Associate Software Engineer**
 
 - 📫 How to reach me **neehaiqbaal@gmail.com**
 
